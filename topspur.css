@@ -1,0 +1,25 @@
+body{
+    background-image: url('richarlison.jpg');
+    background-size: 100% 170%
+}
+div1{
+    display: flex;
+    justify-content: center;
+    align-items: middle;
+    color: #95B18A;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 10px;
+    background-color: black;
+}
+div2{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 10px;
+    width: 50%;
+}
+button{
+    background-color: black;
+    color: #95B18A;
+    border-radius: 1rem;
+}

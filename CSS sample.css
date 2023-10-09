@@ -1,0 +1,26 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-item: center;
+    color: #EAD8B2;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 20px;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: #B5CBB3;
+    background-color: #6A5B48;
+    font-size: 20px
+}
+button{
+    color:#6A5B48;
+    background-color: #B5CBB3;
+    border-radius: 1rem;
+    height: 50px;
+    width: 400
+}
+button:hover{
+    transform: scale(0.75);
+    transition: 0.25s;
+}
